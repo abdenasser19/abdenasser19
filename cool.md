@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdenasser19
-- 👀 I’m interested in coming
-I am currently learning it
+- 👀 I’m interested in coding
+I am currently learning it 
 
 <!---
 abdenasser19/abdenasser19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
